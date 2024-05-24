@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+h1{
+text-align: center;
+font-style: oblique;
+text-transform: uppercase;
+color: white;
+text-justify: auto;
+padding-top: 400px auto;
+}
